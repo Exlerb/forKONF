@@ -1,1 +1,1 @@
-Line 1: Hello Galaxy from dev1
+Line 1: Hello World (conflict resolved)
